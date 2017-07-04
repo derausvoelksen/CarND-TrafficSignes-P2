@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./writeup/number_of_samples_per_class.png "Number if Samples per Class"
-[image2]: ./writeup/preprocessing_with_equalize_adapthist.png "Sample before and after preprocessing"
+[image2]: ./writeup/preprocessing_with_equalize_adapthist.PNG "Sample before and after preprocessing"
 [image3]: ./writeup/chosen_samples.PNG "Chosen Samples"
 [image4]: ./writeup/softmax.PNG "Model Certainty on Top 5 using Softmax"
 
