@@ -108,7 +108,7 @@ Here are five German traffic signs that I found on the web:
 
 ![Chosen Samples][image3]
 
-At first I chose easy photos of traffic signs as I expected a good detected accuracy, and wanted to search for more difficult photos.
+I chose 4 photos of traffic signs with no disturbed background, and one actual photo of a traffic sign with some disturbances in terms of a realistiv scenery. I expected the 4 chosen images showing almost nothing but the sign to be detected easily by the model, and I expected the model to have trouble detecting the real-life image because of the disturbing background. However, my initial assumption seems to be wrong, as the detection accuracy does not seem to relate to the hypothesis.
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
